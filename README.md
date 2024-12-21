@@ -2,7 +2,7 @@
 <p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-### <br>   ❖ SHEIKH-ALI-MD ❖
+### <br>   ❖ SHEIKH.ALI.MD ❖
 
 🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼²⁴⁰⁶`** 🔰
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -17,22 +17,22 @@
 src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=SHEIKH_ALI_2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_MD...;Created+by+ALI+AHMAD+FAROOQ...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH-ALI-MD..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH_ALI_MD...;Created+by+ALI+AHMAD+FAROOQ...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH.ALI.MD..."
 
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
 <a href="hhttps://github.com/Sheikh-ali-2412/"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH_ALI_MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH-ALI-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH.ALI.MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH.ALI.MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH.ALI.MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-MD/count.svg" /><br>SHEIKH-ALI-MD</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH.ALI.MD/count.svg" /><br>SHEIKH.ALI.MD</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -40,13 +40,13 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH-ALI-AHMAD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH-ALI-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH.ALI.MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH-ALI-MD?style=social)
+![stars](https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH.ALI.MD?style=social)
 
 
-[![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-white)](https://github.com/Sheikh-ali-2412/SHEIKH-ALI-MD/fork)
+[![FORK SHEIKH.ALI.MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-white)](https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/fork)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
 
 ### <br> ❖ FOR SUPPORT ❖
@@ -54,7 +54,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 **`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
 
 <p align="center">
-  <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ.ᴀʟɪ.ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------
@@ -88,13 +88,9 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
-<p align="center">
-<a href="https://webpair-mega-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=render"></a>
-<p/>
-
 
 <p align="center">
-<a href="https://express-pairing-code2-1.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-2:-black?style=for-the-badge&logo=render"></a>
+<a href="https://express-pairing-code2-1-hgi2.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render"></a>
 <p/>
 
 
