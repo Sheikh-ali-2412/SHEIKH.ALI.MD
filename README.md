@@ -96,7 +96,7 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
        </a>
    </p>
    
-      @SITE 2
+ @SITE 2
    <p align="center">
        <a href="https://mine-xh2t.onrender.com">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
