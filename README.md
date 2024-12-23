@@ -89,9 +89,22 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=🥂THE%2
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 
-<p align="center">
-<a href="https://express-pairing-code2-1-hgi2.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render"></a>
-<p/>
+  @SITE 1
+   <p align="center">
+       <a href="https://multiple-kingfisher-gamingrash-6eb80034.koyeb.app/">
+         <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+       </a>
+   </p>
+   
+      @SITE 2
+   <p align="center">
+       <a href="https://mine-xh2t.onrender.com">
+         <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
+       </a>
+   </p>
+ - _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
+ - _Deploy using your host._
+   </br>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
