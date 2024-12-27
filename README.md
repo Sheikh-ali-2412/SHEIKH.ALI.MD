@@ -90,9 +90,8 @@ src="https://cardivo.vercel.app/api?name=𝐒𝐇𝐄𝐈𝐊𝐇%20𝐀𝐋𝐈
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 <p align="center">
-<a href='https://silent-sobx-md-web-pair.onrender.com' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
-</a>
+<a href="https://awais-md-pair.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-babypink?style=for-the-badge&logo=render"></a>
+<p/>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
