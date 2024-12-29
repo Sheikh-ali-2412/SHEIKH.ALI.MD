@@ -1,7 +1,0 @@
-FROM node:14
-RUN git clone https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD /root/xIKRATOSx
-WORKDIR /root/xIKRATOSx
-RUN npm install npm@latest || yarn install --network-concurrency 1
-COPY . .
-EXPOSE 9090
-CMD ["npm", "start"]
