@@ -111,8 +111,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 <hr>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
 |--------------------------------|
 | [![Owner](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
