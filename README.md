@@ -1,109 +1,159 @@
-pyii
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=SHEIKH MD WHATSAPP BOT;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALI+AHMAD;RELEASED+DATE+00%2F00%2F0000." alt="Typing SVG" /></a>
+<p
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## ✅𝐓𝐇𝐄 𝐁𝐎𝐓 𝐈𝐒 100% 𝐒𝐀𝐅𝐄 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔💯
+### <br>   👑 SHEIKH.ALI.MD 👑
+
+💫 **`THE WORLD BEST WHATSAPP BOT CREATED BY 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼²⁴⁰⁶`** 💫
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg) 
 
 
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=ALI+AHMAD+WHATSAPP+BOT+DEVELOPER" alt="">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+------------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Njabulo+Jb+)](https://git.io/typing-svg) 
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20ALI%20AHMAD%20FAROOQ%20KING%20OF%20KINGS%20OWNER%20SHEIKH%20ALI%20AHMAD♥️&image=https://i.ibb.co/KFYzSLs/Picsart-24-11-23-16-00-15-845.jpg?v=4&backgroundColor=%23ecf0f1&github=Sheikh-ali-2412&pattern=leaf&colorPattern=%23eaeaea"/>
 
-<p align="centre"><img src="https://files.catbox.moe/ckby4d.jpg" width="500" height="500" />
+<hr>
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+SHEIKH.ALI.MD...;Created+by+ALI+AHMAD+FAROOQ...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thanks+You+For+Using+SHEIKH.ALI.MD..."
 
+<br>
 
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐁𝐎𝐓 
-
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
-<a href="https://github.com/NjabuloJ/followers"><img title="Followers" src="https://img.shields.io/github/followers/NjabuloJ?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/NjabuloJ/Njabulo-Jb?color=blue&style=flat-square"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/"><img title="Size" src="https://img.shields.io/github/repo-size/NjabuloJ/Njabulo-Jb?style=flat-square&color=blue"></a>
-<a href="https://github.com/NjabuloJ/Njabulo-Jb/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="hhttps://github.com/Sheikh-ali-2412/"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH.ALI.MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH.ALI.MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH.ALI.MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sheikh-ali-2412/SHEIKH.ALI.MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH.ALI.MD/count.svg" /><br>SHEIKH.ALI.MD</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
- <p align="center"><img src="https://profile-counter.glitch.me/{ENZO-MD}/count.svg" alt="Enzo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
-
-
-
-
-
-
-## HOW TO GET BOT
-
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
- 
 
-  
-   
-   <a href="https://github.com/NjabuloJ/Njabulo-Jb/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=blue&style=for-the-badge&logo=Nike" width="297" height="40.45"/></a></p>
+ ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSheikh-ali-2412%2FSHEIKH.ALI.MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+![forks](https://img.shields.io/github/forks/Sheikh-ali-2412/SHEIKH.ALI.MD?label=Forks&style=social)
 
- 
- 
+
+![stars](https://img.shields.io/github/stars/Sheikh-ali-2412/SHEIKH.ALI.MD?style=social)
+
+
+[![FORK SHEIKH.ALI.MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-white)](https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD/fork)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"> 
+
+### <br> ❖ FOR SUPPORT ❖
+
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME 𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼`**
+
+<p align="center">
+  <a href="https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝕚𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ꜱʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+-----------
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+`✠  CLICK THIS RED BUTTON 🔳 AND JOIN OUR CHANNEL ✠`
+
+<a href="[https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B](https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B)"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+`✠  CLICK THIS BLUE BUTTON 🔳 AND JOIN OUR YOUTUBE CHANNEL ✠`
+
+<a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+### <br> ❖ DEPLOY  METHOD ❖
+
+<br>
+
+`✠ HOW TO DEPLOY SHEIKH.ALI.MD  WATCH VIDEO AND SUPPORT OUR WHATSAPP CHANNEL ✠`
+
+<p align="center">
+   <a href="https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B"><img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
- 
 
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+92309XXXX THEN YOU CAN GET YOUR SESSION_ID ✠`
 
+<p align="center">
   <a href="https://fffi-0841e02d44bd.herokuapp.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
 
-  
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔)](https://git.io/typing-svg)
 
+`✠ IF YOU WANT TO DEPLOY SILENT-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
- 
-  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD)
 
- 
-## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
-   
-   <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=blue&style=for-the-badge&logo=blue" width="180" height="43.45"/></a></p>
+</details>
+<hr>
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+ALI+AHMAD+FAROOQ" alt="">
+<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-   ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐖𝐎𝐑𝐊𝐅𝐋𝐎𝐖𝐒)](https://git.io/typing-svg)
+```
+name: Node.js CI
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/Sheikh-ali-2412/SHEIKH.ALI.MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
+jobs:
+  build:
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+    runs-on: ubuntu-latest
 
-## FINAL REMARKS ON MY REPO (STATS)
+    strategy:
+      matrix:
+        node-version: [20.x]
 
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Enzotech&repo=ENZO-MD&show_owner=true&theme=dark)
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
 
+    - name: Install dependencies
+      run: npm install
 
+    - name: Start application
+      run: npm start
+```
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
+|--------------------------------|
+| [![Owner](https://i.imghippo.com/files/yFpQ9125wYo.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa)
 
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## CONTACT 
-  DM FOR SERIOUS BUSINESS
-
-   <a href="https://github.com/NjabuloJ/NjabuloJ-INFO"><img title="CONTACT-Njabulo" src="https://img.shields.io/badge/CONTACT-Njabulo-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+***⚠️THANKS FOR USING SHEIKH.ALI.MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHEIKH.ALI.MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY 𓄂𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ KING OF WHATSAPP♥️☣️🥂***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
