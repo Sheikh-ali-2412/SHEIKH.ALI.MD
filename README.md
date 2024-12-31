@@ -111,43 +111,6 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 <hr>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐃𝐄𝐏𝐋𝐎𝐘+𝐎𝐍+𝐖𝐎𝐑𝐊𝐅𝐋𝐎𝐖𝐒)](https://git.io/typing-svg)
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=EB+Garamond&center&color=blue&lines=𝐎𝐖𝐍𝐄𝐑+:+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐)](https://git.io/typing-svg)              
